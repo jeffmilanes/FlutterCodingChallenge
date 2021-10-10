@@ -1,6 +1,6 @@
 # exam_erni
 
-A new Flutter project.
+Coding Challenge MVVM
 
 ## Getting Started
 
