@@ -1,6 +1,6 @@
 # exam_erni
 
-Coding Challenge MVVM
+Coding Challenge MVVM design pattern
 
 ## Getting Started
 
